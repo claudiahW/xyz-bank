@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(230, 204, 204);
+    font-size: 1rem;
+}
 .container{
     width: 100%;
     margin: auto;
@@ -41,6 +45,7 @@ a:active{
     flex-direction:column;
     padding: auto;
     height: 100%;
+    
 
     
 }
